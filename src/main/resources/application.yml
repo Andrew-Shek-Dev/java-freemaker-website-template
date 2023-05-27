@@ -1,0 +1,4 @@
+spring:
+  freemarker:
+    suffix: .ftl #default is *.ftlh (Spring Boot 2.2.x later)
+#    template-loader-path: classpath:/templates/
